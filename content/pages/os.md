@@ -19,3 +19,11 @@ are needed to be kept in the memory, OS does
 3. Tracks which part of the memory is used and who is using it.
 
 ### Storage management
+OS creates an abstraction from physical storage devices to a logical unit, the file.
+
+It has the following subdivisions
+
+#### File-system management
+#### Mass-storage management
+#### Caching
+#### I/O systems
