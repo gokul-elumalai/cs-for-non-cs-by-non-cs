@@ -24,6 +24,8 @@ OS creates an abstraction from physical storage devices to a logical unit, the f
 It has the following subdivisions
 
 #### File-system management
+A file is a collection of related information. OS helps in creating, deleting and managing files and
+directories for organizing files. It also helps in backing up files to a nonvolatile device like hard disk.
 #### Mass-storage management
 #### Caching
 #### I/O systems
