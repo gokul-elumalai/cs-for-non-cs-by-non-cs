@@ -3,6 +3,10 @@
 Understanding Computer Networks helps us understand how the internet and web works. It is required to build secure and
 robust web applications.
 
+## Need for sharing data
+
+## Early network
+
 ## Data Communication
 
 It is a method of exchanging data, it includes hardware and software. Hardware includes sender, receiver and 
