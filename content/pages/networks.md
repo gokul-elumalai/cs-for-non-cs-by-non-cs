@@ -7,6 +7,8 @@ robust web applications.
 
 ## Early network
 
+## Issues in LAN
+
 ## Data Communication
 
 It is a method of exchanging data, it includes hardware and software. Hardware includes sender, receiver and 
