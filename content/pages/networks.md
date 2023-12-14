@@ -9,6 +9,10 @@ robust web applications.
 
 ## Issues in LAN
 
+## Internet 
+
+## Routing
+
 ## Data Communication
 
 It is a method of exchanging data, it includes hardware and software. Hardware includes sender, receiver and 
