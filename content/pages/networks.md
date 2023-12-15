@@ -13,6 +13,8 @@ robust web applications.
 
 ## Routing
 
+## Packet Switching
+
 ## Data Communication
 
 It is a method of exchanging data, it includes hardware and software. Hardware includes sender, receiver and 
